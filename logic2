@@ -1,0 +1,5 @@
+Circle(A)∨Triangle(A)와 Square(B)이 참이라면 ¬(A=B)이 참이됨을 증명하시오.
+
+A가 Circle이면 A와 B는 같은 사물일 수 없으므로 ¬(A=B)이다.
+A가 Triangle이면 A와 B는 같은 사물일 수 없으므로 ¬(A=B)이다.
+¬(A=B)은 참이다.
