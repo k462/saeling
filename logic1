@@ -1,0 +1,4 @@
+A=B∧Tet(A) 와 A=B∧Tet(B)가 tautologically equivalent하지 않은 이유를 설명하시오.
+
+A=B가 T, Tet(A)가 T, Tet(B)가 F 일 때 A=B∧Tet(A)가 T이고 A=B∧Tet(B)가 F이다.
+A=B가 T, Tet(A)가 F, Tet(B)가 T 일 때 A=B∧Tet(A)가 F이고 A=B∧Tet(B)가 T이다.
